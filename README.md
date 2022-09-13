@@ -1,4 +1,4 @@
-![github stats](https://github-readme-stats.vercel.app/api?username=realmahd1&show_icons=true&theme=monokai&hide_rank=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=realmahd1&show_icons=true&theme=codeSTACKr&hide_rank=true&count_private=true)
 
 <!--START_SECTION:waka-->
 
