@@ -1,3 +1,5 @@
+<img src='https://github.com/realmahd1/profile-stats/blob/output/github-contribution-grid-snake.svg' alt='snake' />
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=realmahd1&show_icons=true&theme=codeSTACKr&hide_rank=true&count_private=true)
 
 <!--START_SECTION:waka-->
